@@ -13,3 +13,5 @@ Nathan-OS (NOS for short) is a very simple operating system with a bootloader an
     make run
 
 Enjoy! :)
+
+![NOS running in QEMU](screenshot.png)
